@@ -4,20 +4,19 @@ This Python tool seamlessly combines PDF metadata extraction and web scraping fu
 
 ## Features
 
-PDF Metadata Extraction:
+## PDF Metadata Extraction:
 Utilizes PyPDF2 to extract metadata such as Title, Author, and Subject from local PDF files.
 Supports batch processing for handling multiple PDF files.
 
-Web Scraping for Muslim Names:
-
+## Web Scraping for Muslim Names:
 Employs BeautifulSoup and requests to scrape Muslim names and their meanings from specified web pages.
 Enables data extraction from multiple web pages dedicated to Muslim names.
 
-MongoDB Database Interaction:
+## MongoDB Database Interaction:
 Connects to a MongoDB database to store the extracted PDF metadata and Muslim names data in separate collections.
 Provides functions for seamless insertion of data into MongoDB collections and downloading data from collections to Excel files.
 
-Tkinter GUI for User Interaction:
+## Tkinter GUI for User Interaction:
 Features a Tkinter-based graphical user interface (GUI) for an intuitive and user-friendly experience.
 Incorporates buttons within the GUI to trigger the download of PDF metadata and Muslim names data stored in MongoDB.
 
