@@ -9,6 +9,7 @@ Utilizes PyPDF2 to extract metadata such as Title, Author, and Subject from loca
 Supports batch processing for handling multiple PDF files.
 
 Web Scraping for Muslim Names:
+
 Employs BeautifulSoup and requests to scrape Muslim names and their meanings from specified web pages.
 Enables data extraction from multiple web pages dedicated to Muslim names.
 
