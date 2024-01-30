@@ -24,7 +24,7 @@ Incorporates buttons within the GUI to trigger the download of PDF metadata and 
 
 To run this tool, you need:
 
-Python (version specified in the requirements.txt file).
+Python (version 3.12).
 Required libraries installed using pip install -r requirements.txt.
 
 ## Set path 
