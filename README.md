@@ -34,6 +34,4 @@ You can also set web pages links in main.py file.
 ## Usage
 Run the main.py file
 
-## Installation
-pip install -r requirements.txt
  
